@@ -68,7 +68,7 @@ Below is a preview of the dashboard:
 
 ## Requirements
 - **Tableau Desktop**: Version 2021.1 or later.
-- **Data Files**: If using external data, ensure the files in `data/` are linked correctly in Tableau.
+- **Data Files**: Ensure the files in `data/` are linked correctly in Tableau.
 
 ---
 
