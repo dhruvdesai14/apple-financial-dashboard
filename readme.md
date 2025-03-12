@@ -57,7 +57,7 @@ Below is a preview of the dashboard:
 ---
 
 ## Repository Structure
-- **`data/`**: Contains the raw financial data used in the dashboard (optional if embedded in the .twbx file).
+- **`data/`**: Contains the raw financial data used in the dashboard.
 - **`docs/`**: Folder for additional documentation or reports.
 - **`images/`**: Stores screenshots of the dashboard for quick previews.
 - **`Apple_Financial_Dashboard.twbx`**: The main Tableau workbook file.
