@@ -6,7 +6,7 @@ The dashboard created with Tableau technology demonstrates full financial data a
 
 ## Project Overview
 The Apple Inc. The Corporate Financial Status Dashboard presents vital financial metrics divided into six distinct sections.
-- **The Current Ratio Gauge** displays that Apple maintains a 0.8673 ratio combined with a 0.0746 quick ratio.
+- **The Current Ratio** displays that Apple maintains a 0.8673 ratio combined with a 0.0746 quick ratio.
 - **Debt-to-Equity Ratio Over Time** shows Apple's leverage to industry standard 2.0 by following an upward trend beyond that value.
 - **Cash Balance Over Time** shows Throughout the period Apple accumulated its maximum cash reserves amounting to 60 billion dollars during the year 2024.
 - **Retained Earnings Trend** indicates a dramatic decrease in retained earnings will reach -19.94B during 2024.
